@@ -95,7 +95,9 @@ pygmentsuseclasses         = true
   linkedin                 = "//www.linkedin.com/in/gauravmishra1234/"
   instagram                = "//www.instagram.com/mishraa_gaurav"
   researchgate             ="//www.researchgate.net/Gaurav_Mishra52"
-  include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
+  include_rss              = false                          # include RSS <link> tag in <head> and show RSS 
+  scholar                  = "//scholar.google.co.in/citations?user=gdi0oOMAAAAJ&hl=en&authuser=3"  
+
   
   # analytics
   googleAnalytics          = "your-google-analytic-id"
