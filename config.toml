@@ -68,7 +68,7 @@ pygmentsuseclasses         = true
 [params]
   faviconfile              = "avatar.png"               # from static/
   avatar                   = "gaurav_dp2.jpeg"             # path to image in static dir e.g img/avatar.png 
-  author                   = "Gaurav"
+  author                   = "Gaurav Mishra"
   description              = ["Deep Learning Enthusiast", "ECE Graduate.", "Hindustani Classical Vocalist."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello Visitor"
   welcome_word             = "~Recent Posts~"
