@@ -64,6 +64,13 @@ pygmentsuseclasses         = true
     identifier             = "music"
     url                    = "music/"  
 
+    [[menu.main]]
+    name                   = "Credit Cards"
+    weight                 = -80
+    identifier             = "creditcard"
+    url                    = "creditcard/"  
+
+
 
 [params]
   faviconfile              = "avatar.png"               # from static/
