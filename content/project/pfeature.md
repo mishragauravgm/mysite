@@ -4,7 +4,6 @@ draft = false
 title = "Pfeature"
 img=".png"
 tags = ["project","ml","bioinformatics"]
-url="https://www.google.com"
 +++
 
 Putting image here

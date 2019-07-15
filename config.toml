@@ -49,14 +49,14 @@ pygmentsuseclasses         = true
   [[menu.main]]
     name                   = "Pfeature"
     weight                 = -100
-    identifier             = "extra"
+    identifier             = "pfeature"
     url                    = "https://webs.iiitd.edu.in/raghava/pfeature/"  
 
   [[menu.main]]
     name                   = "CV"
-    weight                 = -100
-    identifier             = "extra"
-    url                    = "https://github.com/mishragauravgm/mysite/blob/master/static/CV_Gaurav_Mishra.pdf"  
+    weight                 = -80
+    identifier             = "cv"
+    url                    = "CV_Gaurav_Mishra.pdf"  
 
 
 [params]
@@ -69,7 +69,7 @@ pygmentsuseclasses         = true
 
   latestpostscount         = 2                             # how many posts to display on the home page
   bloggroupby              = 'month'
-  dateform                 = "Jan 2, 2006"
+  dateform                 = "Jan 2, 2019"
   dateformfull             = "2006-01-02  Monday  15:04:05"
   noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
 
