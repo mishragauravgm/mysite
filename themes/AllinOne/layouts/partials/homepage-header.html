@@ -4,6 +4,8 @@
 {{ $files := readDir $path  }}
 {{ $files := where $files  "Name" "ne" ".DS_Store" }}
 
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
 
 <!-- Carousel Wrapper -->
 <div id="site-header" class="carousel slide carousel-fade" data-ride="carousel" >  <!--data-pause="true" data-interval="300000"-->
@@ -115,6 +117,11 @@
             <a href="{{ $.Site.Params.googleplus }}" target="_blank" rel="noopener"><i class="fab fa-google-plus pr-1" aria-hidden="true"></i></a>
             {{ end }}
 
+
+            {{ if $.Site.Params.scholar }}
+            <a href="{{ $.Site.Params.scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar-square ai-3x" aria-hidden="true"></i></a>
+            {{ end }}  
+            
             {{ if $.Site.Params.twitter }}
                 <a href="{{ $.Site.Params.twitter }}" target="_blank" rel="noopener"><i class="fab fa-twitter pr-1" aria-hidden="true"></i></a>
             {{ end }}
