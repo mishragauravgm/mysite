@@ -8,7 +8,7 @@ tags = ["project","ml","bioinformatics"]
 
 Putting image here
 trial2
-![image](../avatar.png)
+![image](../check2.png)
 
 chcekicecie
 
