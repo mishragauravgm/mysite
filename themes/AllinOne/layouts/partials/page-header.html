@@ -6,6 +6,7 @@
 
 
 <!--Carousel Wrapper-->
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
 <div id="site-header" class="carousel slide carousel-fade" data-ride="carousel" style="height: 18rem;" >  <!--data-pause="true" data-interval="300000"-->
 
   <!--Indicators-->
@@ -116,6 +117,10 @@
                 <a href="{{ $.Site.Params.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram pr-1" aria-hidden="true"></i></a>
             {{ end }}
     
+            {{ if $.Site.Params.scholar }}
+                <a href="{{ $.Site.Params.scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar-square ai-3x" aria-hidden="true"></i></a>
+            {{ end }}
+
             {{ if $.Site.Params.px500 }}
                 <a href="{{ $.Site.Params.px500 }}" target="_blank" rel="noopener"><i class="fab fa-500px pr-1" aria-hidden="true"></i></a>
             {{ end }}
