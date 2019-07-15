@@ -52,6 +52,13 @@ pygmentsuseclasses         = true
     identifier             = "extra"
     url                    = "https://webs.iiitd.edu.in/raghava/pfeature/"  
 
+  [[menu.main]]
+    name                   = "CV"
+    weight                 = -100
+    identifier             = "extra"
+    url                    = "https://github.com/mishragauravgm/mysite/blob/master/static/CV_Gaurav_Mishra.pdf"  
+
+
 [params]
   faviconfile              = "avatar.png"               # from static/
   avatar                   = "gaurav_dp2.jpeg"             # path to image in static dir e.g img/avatar.png 
