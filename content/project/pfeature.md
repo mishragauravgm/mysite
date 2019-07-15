@@ -2,7 +2,7 @@
 date = "2018-09-02T16:46:17+05:30"
 draft = false
 title = "Pfeature"
-img="gaurav_dp.png"
+img=".png"
 tags = ["project","ml","bioinformatics"]
 url="https://www.google.com"
 +++
