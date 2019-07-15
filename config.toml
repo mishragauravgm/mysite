@@ -1,0 +1,90 @@
+baseURL                   = "https://example.com"
+builddrafts                = false
+languageCode               = "en"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "Gaurav Mishra"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -120
+    identifier             = "about"
+    url                    = "about/"  
+
+  [[menu.main]]
+    name                   = "Projects"
+    weight                 = -110
+    identifier             = "project"
+    url                    = "project/" 
+
+  [[menu.main]]
+    name                   = "Articles"
+    weight                 = -100
+    identifier             = "article"
+    url                    = "article/"  
+
+ 
+  [[menu.main]]
+    name                   = "Pfeature"
+    weight                 = -100
+    identifier             = "extra"
+    url                    = "https://webs.iiitd.edu.in/raghava/pfeature/"  
+
+[params]
+  faviconfile              = "avatar.png"               # from static/
+  avatar                   = "gaurav_dp2.jpeg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Gaurav"
+  description              = ["Deep Learning Enthusiast", "ECE Graduate.", "Hindustani Classical Vocalist."]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Check"
+  welcome_word             = "~Check2 ~"
+
+  latestpostscount         = 2                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "static/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "in.gaurav.mishra@email.com"
+  github                   = "//github.com/mishragauravgm"
+  linkedin                 = "//https://www.linkedin.com/in/gauravmishra1234/"
+  instagram                = "//www.instagram.com/mishraa_gaurav"
+  researchgate             ="//wwww"
+  include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  googleAnalytics          = "your-google-analytic-id"
+    
+    
