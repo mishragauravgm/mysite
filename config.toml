@@ -1,4 +1,4 @@
-baseURL                   = ""
+baseURL                   = "https://gauravmishra.netlify.com"
 builddrafts                = false
 languageCode               = "en"
 canonifyurls               = true
@@ -57,6 +57,12 @@ pygmentsuseclasses         = true
     weight                 = -80
     identifier             = "cv"
     url                    = "CV_Gaurav_Mishra.pdf"  
+    
+    [[menu.main]]
+    name                   = "Classical Music"
+    weight                 = -80
+    identifier             = "music"
+    url                    = "music/"  
 
 
 [params]
