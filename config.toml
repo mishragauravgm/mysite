@@ -82,7 +82,7 @@ pygmentsuseclasses         = true
 
   latestpostscount         = 2                             # how many posts to display on the home page
   bloggroupby              = 'month'
-  dateform                 = "Jan 2, 2019"
+  dateform                 = "Jan 2, 2006"
   dateformfull             = "2006-01-02  Monday  15:04:05"
   noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
 
