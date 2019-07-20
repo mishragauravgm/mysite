@@ -7,6 +7,7 @@ image="gaurav_dp.png"
 +++
 
 ![Photo from my yearbook](../gaurav_dp.png =250x)
+<img src="../gaurav_dp.png" alt="drawing" width="200"/>
 
 I am an engineering graduate from Shiv Nadar University. I majored in Electronics and Communication Engineering.
 My research interest lies in Machine Learning and Deep Learning.
