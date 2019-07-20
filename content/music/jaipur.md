@@ -23,12 +23,7 @@ Chota Khyal is *Aeri Maai Sajan Nahi Aaye* set to madhyalaya Addha, a specialty 
 Although the feeling of sadness and separation is the signature of Bageshree and is very well presented in this repertoire, this Bageshree presents a new face of Bageshree.  The harkats, refrains are just heavenly. No one could have thought of such beautiful permutations of Bageshree swaras. I am speechless after listening to this perfection. Notice how within the first 2 minutes (with only her swarmandal playing for more than 30 seconds), this doyenne of classical music sets up the mood of Bageshri. This Bageshri is sung by younger Kishori Tai, somewhere around when she made swarmandal her accompaniment.
 
 
-#### Raga Basanti Kedar by Mallikarjun Mansur
-
-Bada Khyal is the traditional Alladiya khaan *cheez* Attara Sugandha Gulaal
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A46biId8nP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Raga Basanti Kedar by Mallikarjun Mansur and Kesarbai Kerkar
 
 As elaborated by Dr. Rajan Parrikar:
 
@@ -43,3 +38,17 @@ sequence:
 >The komal dhaivat of Basant is abandoned. Both the rishabs are employed, the komal 
 as shown above is the Basanti contribution, the shuddha, for the most part, in the tAra 
 saptak in Kedaric moves.
+
+##### Mallikarjun Mansur
+
+Bada Khyal is the traditional Alladiya khaan *cheez* Attara Sugandha Gulaal set to madhyalaya teental.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A46biId8nP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Kesarbai Kerkar
+
+Bada Khyal is again the traditional Alladiya khaan *cheez* Attara Sugandha Gulaal set to madhyalaya teental.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NDLnVekmI7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
