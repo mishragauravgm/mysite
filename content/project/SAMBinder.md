@@ -2,7 +2,7 @@
 date = "2019-03-30"
 draft = false
 title = "Protein-Ligand Interaction: SAMBinder"
-image="../prot_lig_inter.png"
+image="prot_lig_inter.png"
 tags = ["project","bioinformatics","ml"]
 
 +++
