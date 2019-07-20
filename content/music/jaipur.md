@@ -49,5 +49,7 @@ Bada Khyal is the traditional Alladiya khaan *cheez* Attara Sugandha Gulaal set 
 
 Bada Khyal is again the traditional Alladiya khaan *cheez* Attara Sugandha Gulaal set to madhyalaya teental.
 One can determine the popularity of this raga by listening to her in the initial aalaap. She tells her audience *'...aap log sab jaante honge...basant ko jaante honge aur kedare ko bhi jaante honge..magar aaj ek aisi cheez sunaati hoon ki kedara aur basant dono mil ke saath gaaenge...aap chaahe to dono alag alag dikhaungi nahi to saath saath dikhaungi.'*
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NDLnVekmI7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
