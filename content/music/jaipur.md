@@ -6,6 +6,8 @@ img="alladiya.jpg"
 tags = ["music","classical_music","jaipur_atrauli"]
 +++
 
+A picture of Ustad Alladiya Khan, the establisher of this gharana.
+
 The gharan established by Ustad Alladiya Khan has given indian classical world a battery of accomplished artists - Kesarbai Kerkar, Mogubai Kurdikar, Dhondu Tai Kulkarni, Kishori Amonkar, Ashwini Bhide-Deshpande etc.
 # Here are a few ragas sung by stalwarts from Jaipur Atrauli Gharana which I like the most:
 
