@@ -35,15 +35,24 @@ First time, we made a systematic attempt to develop machine learning technique b
 
 ## Model Evaluation
 In this study, we used stanadrd procedure for evaluating the performance of our models. First, we divide in traing and validation dataset in ratio of 80% and 20%. All traing and testing is performed on training dataset and final performance of model is evaluated on validation or independent dataset. Following is brief description on evaluation  
+
 *   **Five-fold cross validation**: Five-fold cross technique was performed to evaluate the performance of different models developed in this study. In this technique, dataset is divided into five different sets, out of which four sets are used to train the model and the fifth set is used for testing the performance of the model. This process is repeated five times, therefore, each set is used once for testing. The final performance is reported by averaging the performance obtained on five different sets.
+
 *   **External Validation**: Five-fold validation described above is on internal validation where same data is used for training and testing; model may be over optimized. In order to measure realistic performance of our models, we also perform external valiadtion. In external validation we measure performance of our model developed on training dataset on an validation or independent dataset. As both training and validation dataset donot share sequence. It means datasets used for traing and validation are different so performance is realistic.
+
 *   **Performance Measures**: In this study, we used both threshold dependent as well as threshold independent parameters to evaluate the performance of our models. In case of threshold dependent measures, we used all standard parameters to measure performance it includes sensitivity, specificity, accuracy. Similarly, we used area under curve of ROC to measure overall performance in case of threshold independent measures.
 
 
 ## Algorithm
 
-In last one decade number of methods have been developed for predicting ligand interacting residues in a protein. We used similar approach for developing models for predicting SAM interacting residues. Following are major components of algorithm used in this study for developing model*   **Machine Learning Techniques**: In this study, machine learning techniques have been used for developing models. Major machine learning techniques used for developing models includes SVM, Random Forest, ExtraTree, KNN, MLP and Ridge classifier. These machine learning technique has been implemented using Python library scikit-learn.
+In last one decade number of methods have been developed for predicting ligand interacting residues in a protein. We used similar approach for developing models for predicting SAM interacting residues. Following are major components of algorithm used in this study for developing model
+
+*   **Machine Learning Techniques**: In this study, machine learning techniques have been used for developing models. Major machine learning techniques used for developing models includes SVM, Random Forest, ExtraTree, KNN, MLP and Ridge classifier. These machine learning technique has been implemented using Python library scikit-learn.
+
 *   **Pattern Size or Window**: In order to develop models using machine learning techniques, we need fixed length vector. We have generated overlapping patterns or segments of window size 17. We also used dummy amino acid "X" at N-terminal and C-terminal to generate patterns for each residue. These patterns were divided in SAM interacting and non-interacting patterns based on status of central of pattern.
+
 *   **Binary Profile**: In order to repersent a patterns of 17 amino acids by a vector to numerical vector, we repersent each amino acid by a vector of dimension 21 (20 type of amino acids and one for dummy amino acid "X"). This vector is known binary profile of dimension 357 (21x17); which is commonly used technique to present a pattern by numbers. Binary profile of SAM interacting and non-interacting is used for developing machine learning techniques based models.
+
 *   **PSSM Profile**: Evolutionary information provides more information then single sequence of a protein. In this study, we generate PSSM profiles for a protein using PSIBLAST software to extract its evolutionary information. This PSSM profile is normalize and generated PSSM profile correspong to patterns of 17 amino acids. Finally, machine learning techniques based models have been developed using PSSM profiles of patterns.
+
 *   **Peptide Mapping**: This is interesting module we introduce in this study, it is a simple concept of mapping known SAM interacting peptides on a protein. We compute propensity of SAM interaction of each pattern of different length. These patterns were mapped on a query protein with their propensity.
