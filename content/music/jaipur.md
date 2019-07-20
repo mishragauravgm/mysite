@@ -29,3 +29,17 @@ Bada Khyal is the traditional Alladiya khaan *cheez* Attara Sugandha Gulaal
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A46biId8nP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+As elaborated by Dr. Rajan Parrikar:
+
+>The Atrauli-Jaipur Basanti Kedar retains the framework of Kedar and draws relatively 
+sparingly on Basant. The latter is introduced typically at the tail end of the following 
+sequence: 
+
+>P S", NDN D P, D M, G m D m G m G r S 
+
+>(M=shuddha and m=teevra madhyam.)
+
+>The komal dhaivat of Basant is abandoned. Both the rishabs are employed, the komal 
+as shown above is the Basanti contribution, the shuddha, for the most part, in the tAra 
+saptak in Kedaric moves.
