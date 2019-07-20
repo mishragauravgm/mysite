@@ -7,6 +7,7 @@ image="gaurav_dp.png"
 +++
 
 ![Photo from my yearbook](../gaurav_dp.png)
+
 I am an engineering graduate from Shiv Nadar University. I majored in Electronics and Communication Engineering.
 My research interest lies in Machine Learning and Deep Learning.
 I believe in open source and like to develop open source libraries. 
