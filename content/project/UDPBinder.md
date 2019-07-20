@@ -1,9 +1,9 @@
 +++
-date = "2018-09-02T16:46:17+05:30"
+date = "2019-05-25T16:46:17+05:30"
 draft = false
-title = "UDPBinder"
+title = "Protein-Ligand Interaction Take 2: UDPBinder"
 image="gaurav_dp.png"
-tags = ["project","ml","bioinformatics"]
+tags = ["project","ml","bioinformatics","protein-ligand"]
 
 +++
 
