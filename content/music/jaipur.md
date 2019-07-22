@@ -53,3 +53,12 @@ One can determine the popularity of this raga by listening to her in the initial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NDLnVekmI7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+<script type="text/javascript" language="javascript">
+      var aax_size='728x90';
+      var aax_pubname = 'gauravmish0b4-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+
