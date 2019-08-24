@@ -1,4 +1,4 @@
-baseURL                   = "https://gauravmishra.netlify.com"
+baseURL                   = "https://www.mishrag.net"
 builddrafts                = false
 languageCode               = "en"
 canonifyurls               = true
