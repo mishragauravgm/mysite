@@ -15,4 +15,4 @@ I truly enjoy learning and teaching.
 I am a trained Hindustani Classical vocalist. 
 I love cooking, technology, travel and credit cards.
 
-You can find details about the projects I have worked in [here](https://gauravmishra.netlify.com/project/)
+You can find details about the projects I have worked in [here](https://mishrag.com/project/)
