@@ -15,6 +15,7 @@ title                      = "Gaurav Mishra"
 
 pygmentsuseclasses         = true
 
+Heloo
 
 [permalinks]
   blog                     = "blog/:year-:month/:slug/"
@@ -31,50 +32,50 @@ pygmentsuseclasses         = true
     name                   = "About"
     weight                 = -120
     identifier             = "about"
-    url                    = "about/"  
+    url                    = "about/"
 
   [[menu.main]]
     name                   = "Projects"
     weight                 = -110
     identifier             = "project"
-    url                    = "project/" 
+    url                    = "project/"
 
   [[menu.main]]
     name                   = "Articles"
     weight                 = -100
     identifier             = "article"
-    url                    = "article/"  
+    url                    = "article/"
 
- 
+
   [[menu.main]]
     name                   = "Pfeature"
     weight                 = -100
     identifier             = "pfeature"
-    url                    = "https://webs.iiitd.edu.in/raghava/pfeature/"  
+    url                    = "https://webs.iiitd.edu.in/raghava/pfeature/"
 
   [[menu.main]]
     name                   = "CV"
     weight                 = -80
     identifier             = "cv"
-    url                    = "CV_Gaurav_Mishra.pdf"  
-    
+    url                    = "CV_Gaurav_Mishra.pdf"
+
     [[menu.main]]
     name                   = "Classical Music"
     weight                 = -80
     identifier             = "music"
-    url                    = "music/"  
+    url                    = "music/"
 
     [[menu.main]]
     name                   = "Credit Cards"
     weight                 = -80
     identifier             = "creditcard"
-    url                    = "https://amzn.to/32H11Ta"  
+    url                    = "https://amzn.to/32H11Ta"
 
 
 
 [params]
   faviconfile              = "avatar.png"               # from static/
-  avatar                   = "gaurav_dp2.jpeg"             # path to image in static dir e.g img/avatar.png 
+  avatar                   = "gaurav_dp2.jpeg"             # path to image in static dir e.g img/avatar.png
   author                   = "Gaurav Mishra"
   description              = ["Deep Learning Enthusiast", "ECE Graduate.", "Hindustani Classical Vocalist."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Gaurav Mishra"
@@ -90,7 +91,7 @@ pygmentsuseclasses         = true
   slidesDirPath            = "static/header-slides"    # path to image in local dir (path for hugo)
   slidesDirPathURL         = "header-slides"    # path to image in static dir (for static pages)
 
-  # highlighting 
+  # highlighting
   highlightjs              = true
 
   # latex
@@ -102,11 +103,9 @@ pygmentsuseclasses         = true
   linkedin                 = "//www.linkedin.com/in/gauravmishra1234/"
   instagram                = "//www.instagram.com/mishraa_gaurav"
   researchgate             ="//www.researchgate.net/Gaurav_Mishra52"
-  include_rss              = false                          # include RSS <link> tag in <head> and show RSS 
-  scholar                  = "//scholar.google.co.in/citations?user=gdi0oOMAAAAJ&hl=en&authuser=3"  
+  include_rss              = false                          # include RSS <link> tag in <head> and show RSS
+  scholar                  = "//scholar.google.co.in/citations?user=gdi0oOMAAAAJ&hl=en&authuser=3"
 
-  
+
   # analytics
   googleAnalytics          = "your-google-analytic-id"
-    
-    
